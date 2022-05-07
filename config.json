@@ -1,7 +1,7 @@
 {
     "Bot_Info": {
-        "token": "",
-        "prefix": ""
+        "token": "OTcyNTA5NTU5ODI4NjQzODQw.GizGwR.b89lkqVQWjlX7AMWuSMGISx4e7aJa47dCfkluA",
+        "prefix": "-"
     },
    "Embed_Defaults": {
        "EmbedColour": "RANDOM"
@@ -10,7 +10,7 @@
     "giveawayManagerID": "",
     "giveawayRoleID": "",
     "giveawayMention": true,
-    "showMention": true,
+    "showMention": false,
     "hostedBy": true
     }
 }
